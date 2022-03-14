@@ -4,9 +4,6 @@
 
 **Javiera de la Carrera**
 
-- Student ID: 13743354
-- Email: javiera.delacarreragarcia@student.uts.edu.au
-
 ## Description
 The app is built to perform currency conversion using data from an open-source API [Frankfurter](https://www.frankfurter.app/). In more details, the objective is to display the current conversion rate between 2 currency codes given by the user and also calculate the inverse conversion rate between them.
 
